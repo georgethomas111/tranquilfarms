@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "",
+  title: "Personal website",
   description: "Personal website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '',
         items: [
           { text: 'Projects', link: '/projects' },
           { text: 'About', link: '/about' }
