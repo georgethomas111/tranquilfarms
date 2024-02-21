@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "George",
+  title: "",
   description: "Personal website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
