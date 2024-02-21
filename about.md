@@ -1,3 +1,6 @@
 # About me
 
-Currently live in California. Love having a good bite and sometimes like coding. 
+I like looking at graphs. They have a calming effect.
+![](./svg.png) 
+
+Currently live in California. 
